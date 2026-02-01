@@ -1,4 +1,4 @@
-# 🌌 Abyss Purple — Pterodactyl Theme Extension
+# 🌌 Emerald Abyss — Pterodactyl Theme Extension
 
 ![Emerald Abyss Banner](assets/icon.jpg)
 
