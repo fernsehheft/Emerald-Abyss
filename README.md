@@ -1,6 +1,6 @@
 # 🌌 Abyss Purple — Pterodactyl Theme Extension
 
-![Abyss Purple Banner](assets/icon.jpg)
+![Emerald Abyss Banner](assets/icon.jpg)
 
 
 ---
@@ -24,16 +24,16 @@ Ensure that you have [Blueprint](https://blueprint.zip) already installed on you
 2. Upload the file to your main Pterodactyl directory.
 3. Run the installation command:
    ```bash
-   blueprint -i abysspurple
+   blueprint -i emeraldabyss
    ```
 
 ---
 
 ## ⚙️ Configuration
 
-Abyss Purple is ready to use out-of-the-box. Technical details can be found in `conf.yml`:
+Emerald Abyss is ready to use out-of-the-box. Technical details can be found in `conf.yml`:
 
-- **Identifier**: `abysspurple`
+- **Identifier**: `emeraldabyss`
 - **Version**: `v1.0.0`
 - **Target**: `beta-2026-01`
 
