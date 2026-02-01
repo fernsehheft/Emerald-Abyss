@@ -29,6 +29,17 @@ Ensure that you have [Blueprint](https://blueprint.zip) already installed on you
 
 ---
 
+## 📷 Pictures
+<p align="center">
+  <img src="public/EmeraldPanel.png" width="400">
+  <img src="public/EmeraldFolder.png" width="400">
+  <img src="public/EmeraldSettings.png" width="400">
+  <img src="public/EmeraldAdminSettings.png" width="400">
+</p>
+
+
+---
+
 ## ⚙️ Configuration
 
 Emerald Abyss is ready to use out-of-the-box. Technical details can be found in `conf.yml`:
