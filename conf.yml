@@ -1,0 +1,20 @@
+info:
+  name: "Emerald Abyss"
+  identifier: "emeraldabyss"
+  description: "The ultimate redesign based on proven high-end themes."
+  version: "v1.0.0"
+  target: "beta-2026-01"
+  author: "Fernsehheft"
+  icon: "assets/icon.jpg"
+  website: "https://blueprint.zip"
+
+admin:
+  view: "admin/view.blade.php"
+  css: "admin.css"
+  wrapper: "admin/wrapper.blade.php"
+
+dashboard:
+  css: "client/client.style.css"
+
+data:
+  public: "public"
